@@ -6,7 +6,7 @@ public class Main {
 
         RegistrationOffice office = new RegistrationOffice();
         Library library = new Library();
-
+//        TicketManager ticketManager = new TicketManager();
         office.issueTicket();
         library.issueTicket();
         office.issueTicket();
